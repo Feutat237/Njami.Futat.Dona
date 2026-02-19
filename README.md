@@ -26,13 +26,13 @@ Je m’intéresse particulièrement à :
 
 Au quotidien et dans mes projets, je travaille sur :
 
-•	Fournir un soutien technique de niveau 1 et 2 aux utilisateurs à distance (Windows, Office 365, imprimantes, etc.)
-•	Gérer les comptes Active Directory : création, modification, réinitialisation de mots de passe, attribution de groupes
-•	Installer, configurer et dépanner des postes de travail Windows 10/11 et logiciels courants
-•	Assurer le suivi des demandes via un système de billetterie et documenter les procédures techniques dans (Jira)
-•	Effectuer le déploiement et l’entretien de matériel informatique (ordinateurs, écrans, routeurs)
-•	Participer à la gestion de la sécurité de base : antivirus, MFA
-•	Configurer des machines virtuelles sous Azure pour les clients
+-	Fournir un soutien technique de niveau 1 et 2 aux utilisateurs à distance (Windows, Office 365, imprimantes, etc.)
+-	Gérer les comptes Active Directory : création, modification, réinitialisation de mots de passe, attribution de groupes
+-	Installer, configurer et dépanner des postes de travail Windows 10/11 et logiciels courants
+-	Assurer le suivi des demandes via un système de billetterie et documenter les procédures techniques dans (Jira)
+-	Effectuer le déploiement et l’entretien de matériel informatique (ordinateurs, écrans, routeurs)
+-	Participer à la gestion de la sécurité de base : antivirus, MFA
+-	Configurer des machines virtuelles sous Azure pour les clients
 
 
 Mon objectif est de **comprendre, résoudre et documenter**.

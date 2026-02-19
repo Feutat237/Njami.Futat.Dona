@@ -1,10 +1,24 @@
-# Dona Njami Futat — Portfolio IT
+<h1 style="color:#4da3ff;">Dona Njami Futat — Portfolio IT</h1>
+
+<p align="center">
+  <img src="nny.jpg" alt="Photo Dona Njami Futat" width="180" style="border-radius:50%;">
+</p>
+
+<p align="center">
+  <strong>Technicien support informatique | Administrateur systèmes junior</strong><br>
+  Réseaux • Sécurité • Virtualisation
+</p>
+
+<hr>
 
 Bienvenue sur mon portfolio.
 
-Je suis **Dona Njami Futat**, technicien support informatique et administrateur systèmes junior, spécialisé en réseaux, sécurité et virtualisation, avec 3 ans d’expérience en support informatique. Habitué aux environnements proches de la production, j’interviens sur le support utilisateurs, l’administration des systèmes et la résolution d’incidents, en mettant l’accent sur la fiabilité, la sécurité et la documentation des procédures.
+Je suis <strong>Dona Njami Futat</strong>, technicien support informatique et administrateur systèmes junior, spécialisé en <strong>réseaux, sécurité et virtualisation</strong>, avec <strong>3 ans d’expérience en support informatique</strong>.  
+Habitué aux environnements proches de la production, j’interviens sur le support utilisateurs, l’administration des systèmes et la résolution d’incidents, en mettant l’accent sur la <strong>fiabilité</strong>, la <strong>sécurité</strong> et la <strong>documentation des procédures</strong>.
 
-## À propos de moi
+<hr>
+
+<h2 style="color:#4da3ff;">À propos de moi</h2>
 
 - Technicien support informatique  
 - Administrateur systèmes junior  
@@ -13,65 +27,60 @@ Je suis **Dona Njami Futat**, technicien support informatique et administrateur 
 - Basé au Canada  
 
 Je m’intéresse particulièrement à :
-- Support Informatique à distance ou en presentiel
-- l’administration Windows,
-- Active Directory,
-- les environnements virtualisés,
-- la résolution structurée des incidents,
-- la documentation claire et réutilisable.
+- Support informatique à distance ou en présentiel  
+- Administration Windows  
+- Active Directory  
+- Environnements virtualisés  
+- Résolution structurée des incidents  
+- Documentation claire et réutilisable  
 
----
+<hr>
 
-## Ce que je fais (et ce que j’apporte)
+<h2 style="color:#4da3ff;">Ce que je fais (et ce que j’apporte)</h2>
 
 Au quotidien et dans mes projets, je travaille sur :
 
--	Fournir un soutien technique de niveau 1 et 2 aux utilisateurs à distance (Windows, Office 365, imprimantes, etc.)
--	Gérer les comptes Active Directory : création, modification, réinitialisation de mots de passe, attribution de groupes
--	Installer, configurer et dépanner des postes de travail Windows 10/11 et logiciels courants
--	Assurer le suivi des demandes via un système de billetterie et documenter les procédures techniques dans (Jira)
--	Effectuer le déploiement et l’entretien de matériel informatique (ordinateurs, écrans, routeurs)
--	Participer à la gestion de la sécurité de base : antivirus, MFA
--	Configurer des machines virtuelles sous Azure pour les clients
+- Support technique niveau 1 et 2 (Windows, Microsoft 365, imprimantes)
+- Gestion des comptes Active Directory (création, groupes, mots de passe)
+- Installation et dépannage de postes Windows 10/11
+- Suivi des demandes via un système de billetterie (Jira)
+- Déploiement et maintenance de matériel informatique
+- Sécurité de base : antivirus, MFA
+- Configuration de machines virtuelles (Azure)
 
+<strong>Mon objectif : comprendre, résoudre et documenter.</strong>
 
-Mon objectif est de **comprendre, résoudre et documenter**.
+<hr>
 
----
+<h2 style="color:#4da3ff;">Projets</h2>
 
-## Projets
-
-### IT Procedures — Support & Dépannage
-Dépôt centralisant mes procédures IT.
-
-Lien :  
-https://github.com/Feutat237/IT-Procedures
+<strong>IT Procedures — Support & Dépannage</strong>  
+🔗 https://github.com/Feutat237/IT-Procedures
 
 Contenu :
 - Problèmes Windows Update (SoftwareDistribution, SFC, DISM)
 - Réinitialisation OneDrive
 - Problèmes MFA Microsoft 365
 - Outlook (langue, encodage, profils)
-- Problèmes docking station et périphériques
+- Docking station et périphériques
 - Méthodologie de support utilisateur pas à pas
-- etc
 
 Objectif :  
-Disposer d’une base de connaissances utilisable partout, rapidement.
+Disposer d’une base de connaissances utilisable partout et rapidement.
 
----
+<hr>
 
-## Laboratoires & pratiques
+<h2 style="color:#4da3ff;">Laboratoires & pratiques</h2>
 
 - Packet Tracer (configurations sécurisées)
 - Création de VM Debian avec IP statique
-- Virtualisation Windows 
+- Virtualisation Windows
 - Tests GPO avancés
 - Intégration imprimantes et scanners réseau
 
----
+<hr>
 
-## Approche professionnelle
+<h2 style="color:#4da3ff;">Approche professionnelle</h2>
 
 - Documentation claire et structurée
 - Procédures pas à pas
@@ -79,12 +88,12 @@ Disposer d’une base de connaissances utilisable partout, rapidement.
 - Bonnes pratiques IT
 - Environnements proches de la production
 
----
+<hr>
 
-## Où me trouver
+<h2 style="color:#4da3ff;">Où me trouver</h2>
 
 GitHub :  
-https://github.com/Feutat237
+https://github.com/Feutat237  
 
 LinkedIn :  
 https://www.linkedin.com/in/dona-njami-futat-2745b4270/
@@ -92,5 +101,3 @@ https://www.linkedin.com/in/dona-njami-futat-2745b4270/
 ---
 
 Ce portfolio évolue en fonction de mes projets, de mes apprentissages et de mon expérience professionnelle.
-
-

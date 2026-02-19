@@ -1,4 +1,4 @@
-<h1 style="color:#0131b4;">Dona Njami Futat — Portfolio IT</h1>
+<h1 style="color:#0000ff;">Dona Njami Futat — Portfolio IT</h1>
 
 <p align="center">
   <strong>Technicien support informatique | Administrateur systèmes junior</strong><br>

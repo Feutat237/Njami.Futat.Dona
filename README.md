@@ -92,5 +92,5 @@ https://www.linkedin.com/in/dona-njami-futat-2745b4270/
 ---
 
 Ce portfolio évolue en fonction de mes projets, de mes apprentissages et de mon expérience professionnelle.
-ojets, mes laboratoires et mon expérience professionnelle.
+
 

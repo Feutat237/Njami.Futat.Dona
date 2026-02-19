@@ -1,4 +1,4 @@
-<h1 style="color:#0b3d91;">Dona Njami Futat — Portfolio IT</h1>
+<h1 style="color:#0131b4;">Dona Njami Futat — Portfolio IT</h1>
 
 <p align="center">
   <strong>Technicien support informatique | Administrateur systèmes junior</strong><br>
@@ -9,8 +9,8 @@
 
 Bienvenue sur mon portfolio.
 
-Je suis <strong>Dona Njami Futat</strong>, technicien support informatique et administrateur systèmes junior, spécialisé en <strong>réseaux, sécurité et virtualisation</strong>, avec <strong>3 ans d’expérience en support informatique</strong>.  
-Habitué aux environnements proches de la production, j’interviens sur le support utilisateurs, l’administration des systèmes et la résolution d’incidents, en mettant l’accent sur la <strong>fiabilité</strong>, la <strong>sécurité</strong> et la <strong>documentation des procédures</strong>.
+Je suis <strong>Dona Njami Futat</strong>, technicien support informatique et administrateur systèmes junior, spécialisé en réseaux, sécurité et virtualisation, avec 3 ans d’expérience en support informatique.  
+Habitué aux environnements proches de la production, j’interviens sur le support utilisateurs, l’administration des systèmes et la résolution d’incidents, en mettant l’accent sur la fiabilité, la sécurité et la documentation des procédures.
 
 <hr>
 

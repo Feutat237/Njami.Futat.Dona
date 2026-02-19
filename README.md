@@ -1,147 +1,99 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <title>Portfolio IT — Dona Njami Futat</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
+<h1 style="color:#4da3ff;">Dona Njami Futat — Portfolio IT</h1>
 
-    h1, h2 {
-      color: #4da3ff; /* bleu clair */
-    }
-
-    /* Logo sur le côté gauche */
-    .header {
-      display: flex;
-      align-items: center;
-      gap: 20px; /* espace entre image et texte */
-      margin-bottom: 20px;
-    }
-
-    .header img {
-      width: 180px;
-      height: 180px;
-      border-radius: 50%;
-    }
-
-    hr {
-      border: 0;
-      border-top: 2px solid #ddd;
-      margin: 20px 0;
-    }
-
-    a {
-      color: #4da3ff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-
-<div class="header">
-  <img src="photo.jpg" alt="Photo Dona Njami Futat">
-  <div>
-    <h1>Dona Njami Futat — Portfolio IT</h1>
-    <p><strong>Technicien support informatique | Administrateur systèmes junior</strong><br>
-       Réseaux • Sécurité • Virtualisation
-    </p>
-  </div>
-</div>
+<p align="center">
+  <strong>Technicien support informatique | Administrateur systèmes junior</strong><br>
+  Réseaux • Sécurité • Virtualisation
+</p>
 
 <hr>
 
-<p>Bienvenue sur mon portfolio.</p>
-<p>Je suis <strong>Dona Njami Futat</strong>, technicien support informatique et administrateur systèmes junior, spécialisé en <strong>réseaux, sécurité et virtualisation</strong>, avec <strong>3 ans d’expérience en support informatique</strong>.  
-Habitué aux environnements proches de la production, j’interviens sur le support utilisateurs, l’administration des systèmes et la résolution d’incidents, en mettant l’accent sur la <strong>fiabilité</strong>, la <strong>sécurité</strong> et la <strong>documentation des procédures</strong>.</p>
+Bienvenue sur mon portfolio.
+
+Je suis <strong>Dona Njami Futat</strong>, technicien support informatique et administrateur systèmes junior, spécialisé en <strong>réseaux, sécurité et virtualisation</strong>, avec <strong>3 ans d’expérience en support informatique</strong>.  
+Habitué aux environnements proches de la production, j’interviens sur le support utilisateurs, l’administration des systèmes et la résolution d’incidents, en mettant l’accent sur la <strong>fiabilité</strong>, la <strong>sécurité</strong> et la <strong>documentation des procédures</strong>.
 
 <hr>
 
-<h2>À propos de moi</h2>
-<ul>
-  <li>Technicien support informatique</li>
-  <li>Administrateur systèmes junior</li>
-  <li>AEC en Gestion de réseaux, sécurité et virtualisation</li>
-  <li>DEP en Technique informatique</li>
-  <li>Basé au Canada</li>
-</ul>
+<h2 style="color:#4da3ff;">À propos de moi</h2>
 
-<p>Je m’intéresse particulièrement à :</p>
-<ul>
-  <li>Support informatique à distance ou en présentiel</li>
-  <li>Administration Windows</li>
-  <li>Active Directory</li>
-  <li>Environnements virtualisés</li>
-  <li>Résolution structurée des incidents</li>
-  <li>Documentation claire et réutilisable</li>
-</ul>
+- Technicien support informatique  
+- Administrateur systèmes junior  
+- AEC en Gestion de réseaux, sécurité et virtualisation  
+- DEP en Technique informatique  
+- Basé au Canada  
+
+Je m’intéresse particulièrement à :
+- Support informatique à distance ou en présentiel  
+- Administration Windows  
+- Active Directory  
+- Environnements virtualisés  
+- Résolution structurée des incidents  
+- Documentation claire et réutilisable  
 
 <hr>
 
-<h2>Ce que je fais (et ce que j’apporte)</h2>
-<ul>
-  <li>Support technique niveau 1 et 2 (Windows, Microsoft 365, imprimantes)</li>
-  <li>Gestion des comptes Active Directory (création, groupes, mots de passe)</li>
-  <li>Installation et dépannage de postes Windows 10/11</li>
-  <li>Suivi des demandes via un système de billetterie (Jira)</li>
-  <li>Déploiement et maintenance de matériel informatique</li>
-  <li>Sécurité de base : antivirus, MFA</li>
-  <li>Configuration de machines virtuelles (Azure)</li>
-</ul>
-<p><strong>Mon objectif : comprendre, résoudre et documenter.</strong></p>
+<h2 style="color:#4da3ff;">Ce que je fais (et ce que j’apporte)</h2>
+
+Au quotidien et dans mes projets, je travaille sur :
+
+- Support technique niveau 1 et 2 (Windows, Microsoft 365, imprimantes)
+- Gestion des comptes Active Directory (création, groupes, mots de passe)
+- Installation et dépannage de postes Windows 10/11
+- Suivi des demandes via un système de billetterie (Jira)
+- Déploiement et maintenance de matériel informatique
+- Sécurité de base : antivirus, MFA
+- Configuration de machines virtuelles (Azure)
+
+<strong>Mon objectif : comprendre, résoudre et documenter.</strong>
 
 <hr>
 
-<h2>Projets</h2>
-<p><strong>IT Procedures — Support & Dépannage</strong><br>
-🔗 <a href="https://github.com/Feutat237/IT-Procedures">https://github.com/Feutat237/IT-Procedures</a></p>
-<p>Contenu :</p>
-<ul>
-  <li>Problèmes Windows Update (SoftwareDistribution, SFC, DISM)</li>
-  <li>Réinitialisation OneDrive</li>
-  <li>Problèmes MFA Microsoft 365</li>
-  <li>Outlook (langue, encodage, profils)</li>
-  <li>Docking station et périphériques</li>
-  <li>Méthodologie de support utilisateur pas à pas</li>
-</ul>
-<p>Objectif : Disposer d’une base de connaissances utilisable partout et rapidement.</p>
+<h2 style="color:#4da3ff;">Projets</h2>
+
+<strong>IT Procedures — Support & Dépannage</strong>  
+🔗 https://github.com/Feutat237/IT-Procedures
+
+Contenu :
+- Problèmes Windows Update (SoftwareDistribution, SFC, DISM)
+- Réinitialisation OneDrive
+- Problèmes MFA Microsoft 365
+- Outlook (langue, encodage, profils)
+- Docking station et périphériques
+- Méthodologie de support utilisateur pas à pas
+
+Objectif :  
+Disposer d’une base de connaissances utilisable partout et rapidement.
 
 <hr>
 
-<h2>Laboratoires & pratiques</h2>
-<ul>
-  <li>Packet Tracer (configurations sécurisées)</li>
-  <li>Création de VM Debian avec IP statique</li>
-  <li>Virtualisation Windows</li>
-  <li>Tests GPO avancés</li>
-  <li>Intégration imprimantes et scanners réseau</li>
-</ul>
+<h2 style="color:#4da3ff;">Laboratoires & pratiques</h2>
+
+- Packet Tracer (configurations sécurisées)
+- Création de VM Debian avec IP statique
+- Virtualisation Windows
+- Tests GPO avancés
+- Intégration imprimantes et scanners réseau
 
 <hr>
 
-<h2>Approche professionnelle</h2>
-<ul>
-  <li>Documentation claire et structurée</li>
-  <li>Procédures pas à pas</li>
-  <li>Orientation résolution de problèmes</li>
-  <li>Bonnes pratiques IT</li>
-  <li>Environnements proches de la production</li>
-</ul>
+<h2 style="color:#4da3ff;">Approche professionnelle</h2>
+
+- Documentation claire et structurée
+- Procédures pas à pas
+- Orientation résolution de problèmes
+- Bonnes pratiques IT
+- Environnements proches de la production
 
 <hr>
 
-<h2>Où me trouver</h2>
-<p>GitHub : <a href="https://github.com/Feutat237">https://github.com/Feutat237</a><br>
-LinkedIn : <a href="https://www.linkedin.com/in/dona-njami-futat-2745b4270/">https://www.linkedin.com/in/dona-njami-futat-2745b4270/</a></p>
+<h2 style="color:#4da3ff;">Où me trouver</h2>
 
-<p>Ce portfolio évolue en fonction de mes projets, de mes apprentissages et de mon expérience professionnelle.</p>
+GitHub :  
+https://github.com/Feutat237  
 
-</body>
-</html>
+LinkedIn :  
+https://www.linkedin.com/in/dona-njami-futat-2745b4270/
+
+---
+
+Ce portfolio évolue en fonction de mes projets, de mes apprentissages et de mon expérience professionnelle.

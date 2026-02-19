@@ -1,100 +1,67 @@
-# 👋 Dona Feutat — Portfolio IT
+# Dona Njami Futat — Portfolio IT
 
-🎯 **Technicien support informatique | Administrateur systèmes junior**  
-📍 Canada  
-🎓 **AEC – Gestion de réseaux, sécurité et virtualisation**  
-🎓 **DEP – Technique informatique**
+Bienvenue sur mon portfolio.
 
-Bienvenue sur mon portfolio GitHub.  
-Vous y trouverez mes **projets techniques**, **laboratoires pratiques** et **procédures professionnelles**, basés sur des **situations réelles en entreprise** et des environnements **proches de la production**.
+Je suis **Dona Njami Futat**, technicien support informatique et administrateur systèmes junior, spécialisé en réseaux, sécurité et virtualisation, avec 3 ans d’expérience en support informatique. Habitué aux environnements proches de la production, j’interviens sur le support utilisateurs, l’administration des systèmes et la résolution d’incidents, en mettant l’accent sur la fiabilité, la sécurité et la documentation des procédures.
 
----
+## À propos de moi
 
-## 🧠 Compétences clés
+- Technicien support informatique  
+- Administrateur systèmes junior  
+- AEC en Gestion de réseaux, sécurité et virtualisation  
+- DEP en Technique informatique  
+- Basé au Canada  
 
-### 🖥️ Systèmes
-- Windows 10 / 11  
-- Windows Server 2019 / 2022 / 2025 
-- Active Directory (AD DS, DNS, GPO)  
-- Linux : Ubuntu, Debian, AlmaLinux  
-
-### 🌐 Réseaux & Sécurité
-- DHCP (mono et multi-réseaux)
-- DNS
-- Segmentation LAN
-- SSH & sécurisation des accès
-- Wi-Fi entreprise (InstantOn)
-
-### ☁️ Outils & Services
-- Microsoft 365 (Exchange, SharePoint, OneDrive)
-- Bitwarden (gestion sécurisée des accès)
-- ITSupport247 (RMM)
-- Keepit (sauvegarde)
-- Wiki.js
-- Git & GitHub
+Je m’intéresse particulièrement à :
+- Support Informatique à distance ou en presentiel
+- l’administration Windows,
+- Active Directory,
+- les environnements virtualisés,
+- la résolution structurée des incidents,
+- la documentation claire et réutilisable.
 
 ---
 
-## 📁 Projets principaux
+## Ce que je fais (et ce que j’apporte)
 
-### 🔹 Procédures IT – Support & Dépannage
-📂 **it-procedures**  
-🔗 https://github.com/Feutat237/IT-Procedures
+Au quotidien et dans mes projets, je travaille sur :
 
-**Description :**
-- Résolution de problèmes Windows Update
+•	Fournir un soutien technique de niveau 1 et 2 aux utilisateurs à distance (Windows, Office 365, imprimantes, etc.)
+•	Gérer les comptes Active Directory : création, modification, réinitialisation de mots de passe, attribution de groupes
+•	Installer, configurer et dépanner des postes de travail Windows 10/11 et logiciels courants
+•	Assurer le suivi des demandes via un système de billetterie et documenter les procédures techniques dans (Jira)
+•	Effectuer le déploiement et l’entretien de matériel informatique (ordinateurs, écrans, routeurs)
+•	Participer à la gestion de la sécurité de base : antivirus, MFA
+•	Configurer des machines virtuelles sous Azure pour les clients
+
+
+Mon objectif est de **comprendre, résoudre et documenter**.
+
+---
+
+## Projets
+
+### IT Procedures — Support & Dépannage
+Dépôt centralisant mes procédures IT.
+
+Lien :  
+https://github.com/Feutat237/IT-Procedures
+
+Contenu :
+- Problèmes Windows Update (SoftwareDistribution, SFC, DISM)
 - Réinitialisation OneDrive
 - Problèmes MFA Microsoft 365
-- Outlook (encodage, langue, profils)
-- Problèmes docking stations et périphériques
-- Méthodologie professionnelle de support utilisateur
+- Outlook (langue, encodage, profils)
+- Problèmes docking station et périphériques
+- Méthodologie de support utilisateur pas à pas
+- etc
 
-🎯 **Objectif :**  
-Centraliser mes procédures de dépannage pour les utiliser partout, rapidement et efficacement.
-
----
-
-### 🔹 Active Directory – Environnement entreprise *(en cours / à venir)*
-📂 `active-directory-lab`
-
-**Description :**
-- Déploiement d’un contrôleur de domaine Windows Server 2022
-- Configuration DNS et IP statique
-- Jointure de postes clients
-- Création d’utilisateurs et groupes
-- Application de GPO de sécurité
-
-🎯 **Objectif :** Simuler un environnement Active Directory réel et sécurisé.
+Objectif :  
+Disposer d’une base de connaissances utilisable partout, rapidement.
 
 ---
 
-### 🔹 Wiki.js – DEV / TEST / PROD *(en cours / à venir)*
-📂 `wikijs-multi-environment`
-
-**Description :**
-- Déploiement de 3 environnements Wiki.js distincts
-- Utilisateurs Linux dédiés
-- Bases de données séparées
-- Reverse proxy NGINX
-
-🎯 **Objectif :** Gestion applicative et structuration serveur.
-
----
-
-### 🔹 Linux – Serveur DHCP multi-réseaux *(en cours / à venir)*
-📂 `linux-dhcp-multi-lan`
-
-**Description :**
-- Serveur DHCP sous AlmaLinux
-- Deux interfaces réseau
-- Plusieurs étendues DHCP
-- LAN segmentés
-
-🎯 **Objectif :** Maîtrise du protocole DHCP en environnement réel.
-
----
-
-## 🧪 Laboratoires & pratiques
+## Laboratoires & pratiques
 
 - Packet Tracer (configurations sécurisées)
 - Création de VM Debian avec IP statique
@@ -104,25 +71,26 @@ Centraliser mes procédures de dépannage pour les utiliser partout, rapidement 
 
 ---
 
-## 🤝 Approche professionnelle
+## Approche professionnelle
 
-✔️ Documentation claire et structurée  
-✔️ Procédures pas à pas  
-✔️ Orientation résolution de problèmes  
-✔️ Bonnes pratiques IT  
-✔️ Environnements réalistes  
-
----
-
-## 📬 Me trouver
-
-💼 **GitHub** : https://github.com/Feutat237  
-🔗 **LinkedIn** : https://www.linkedin.com/in/dona-njami-futat-2745b4270/
-
-Plateformes utilisées : **:contentReference[oaicite:0]{index=0}** · **:contentReference[oaicite:1]{index=1}**
+- Documentation claire et structurée
+- Procédures pas à pas
+- Orientation résolution de problèmes
+- Bonnes pratiques IT
+- Environnements proches de la production
 
 ---
 
-⭐ Merci de votre visite.  
-Ce portfolio évolue continuellement avec mes projets, mes laboratoires et mon expérience professionnelle.
+## Où me trouver
+
+GitHub :  
+https://github.com/Feutat237
+
+LinkedIn :  
+https://www.linkedin.com/in/dona-njami-futat-2745b4270/
+
+---
+
+Ce portfolio évolue en fonction de mes projets, de mes apprentissages et de mon expérience professionnelle.
+ojets, mes laboratoires et mon expérience professionnelle.
 
